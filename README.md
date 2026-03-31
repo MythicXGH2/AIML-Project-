@@ -36,10 +36,3 @@ categories.
 2. `pip install pandas numpy scikit-learn matplotlib seaborn`
 3. Open `expense_predictor.ipynb` in Jupyter
 4. Run all cells
-
-## Project Structure
-├── expense_predictor.ipynb
-├── README.md
-├── eda.png
-├── feature_importance.png
-└── actual_vs_predicted.png
